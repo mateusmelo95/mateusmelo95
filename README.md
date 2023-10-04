@@ -1,9 +1,5 @@
-### Mateus Melo Siqueira here, Hi there 👋
-
-mateusmelo95
-Descrição de habilidades, projetos e interesses
-
-Hi there, I'm Mateus Melo !
+###  Hi there, 
+Mateus Melo Siqueira here👋
 
 About Me 
 🎓 Currently studing Data Science and BIM.
@@ -14,7 +10,8 @@ About Me
 Database, GIS software development. Assistance in preparing Aerophotogrammetric flight plans. 
 Handling and processing geospatial data from metric, lidar, satellite sensors.
 
-Skills 
+Skills
+
 🌐 Geoprocessing: GIS, spatial analysis, data manipulation, plugins development, AI models. 
 
 📊 Data Science: Data cleaning, exploratory data analysis, and predictive modeling. 
