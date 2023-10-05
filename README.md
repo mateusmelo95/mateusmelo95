@@ -17,7 +17,7 @@ Skills
 
 📊 Data Science: Data cleaning, exploratory data analysis, and predictive modeling. 
 
-💻 Programming: Python, PostGIS and GEE/Javascript. 
+💻 Programming: Python, PostGIS and GEE/Javascript, Arduino/C++. 
 
 📈 Data Visualization: Creating meaningful visual representations of geographic data. 
 
